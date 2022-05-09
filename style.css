@@ -780,13 +780,17 @@ h4 {
     color: #F3976C!important;
 }
 
+.text-color {
+    color: #1C1C1C!important;
+}
+
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #FFFFFF;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #79472F!important;
     color: #FFFFFF!important;
 }
 
